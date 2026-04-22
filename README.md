@@ -33,9 +33,6 @@ End-to-end podcast management platform with AI show notes generation.
 ### [Zyraa](https://zyraa.net) — Project Management Tool
 Team collaboration platform with Kanban boards, time tracking, and Slack integration.
 
-### [AutoDoc-AI](https://github.com/codebybilal18/AutoDoc-AI) — AI Documentation Generator
-Generates README, API docs, and architecture diagrams from GitHub repos or ZIP files.
-
 ## 📫 Connect
 - 🌐 [muhammadbilal.dev](https://muhammadbilal.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mbilal18/)
