@@ -1,42 +1,42 @@
-# Muhammad Bilal — Full-Stack Software Engineer
+# Muhammad Bilal — Backend Engineer
+🌍 **Open to Remote Roles** | 📍 Pakistan (UTC+5) | 🕐 Available for EU & US overlap
 
-🌍 **Available for Remote Work** | 📍 Pakistan (UTC+5) | 🕐 Flexible with US/EU timezones
+I build production backend systems — APIs, event-driven pipelines, distributed services, and the infrastructure that runs them. 2+ years shipping backend for SaaS products from architecture to post-production.
 
-I build production-grade web applications, AI-powered SaaS platforms, and scalable backend systems. 1.5+ years of professional experience shipping full-stack products from ideation to launch.
+---
 
-## 🏗️ What I Build
-- **Full-Stack SaaS Applications** — Next.js, React, Node.js, TypeScript, PostgreSQL
-- **AI-Powered Products** — LangChain, OpenAI, RAG pipelines, LLM chatbots
-- **Scalable Backend Systems** — REST APIs, microservices, Docker, AWS
+## 🛠️ Stack
 
-## 🛠️ Tech Stack
-**Languages:** JavaScript, TypeScript, Python  
-**Frontend:** React, Next.js 15, Tailwind CSS, Shadcn UI  
-**Backend:** Node.js, Express, NestJS, FastAPI, Flask  
-**AI/ML:** OpenAI, LangChain, LangGraph, RAG, Elasticsearch  
-**Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch  
-**DevOps:** Docker, AWS (SQS, S3, EC2), Vercel, CI/CD  
-**Auth & Payments:** Clerk, Stripe, JWT, RBAC  
+**Core:** Node.js · Python · TypeScript · FastAPI · NestJS · Express  
+**Databases:** PostgreSQL · MongoDB · Redis · Elasticsearch  
+**Cloud & Infra:** AWS (SQS, Lambda, S3, Textract) · GCP (Cloud Run, Pub/Sub, Cloud SQL) · Docker · Terraform  
+**Patterns:** Microservices · Event-driven · Multi-tenancy · RBAC · Async pipelines · ACID transactions  
+**AI/LLM:** LangChain · LangGraph · OpenAI · Anthropic · RAG  
+**Frontend (when needed):** React · Next.js · Tailwind CSS  
 
-## 🚀 Featured Projects
+---
 
-### [EarlyBirdGigs](https://earlybirdgigs.com) — B2B SaaS Platform
-AI-powered property maintenance marketplace. Built with Next.js, Elasticsearch, Stripe, AWS SQS.
-- Processed millions of property images with 94% detection accuracy
-- Sub-second geo-location search with semantic matching
+## 🚀 What I've Built
 
-### [PodPlanner](https://app.earworm.co) — Podcast Workflow SaaS
-End-to-end podcast management platform with AI show notes generation.
-- AI content generation reducing creation time by 80%
-- Real-time collaboration with threaded comments and @mentions
+### [EarlyBirdGigs](https://earlybirdgigs.com) — B2B Property Maintenance SaaS
+Architected the full backend: batch image processing pipeline (AWS SQS + Lambda + Textract) with 94% event-detection accuracy, Elasticsearch geo-search with sub-second response times, Stripe subscription billing, and RBAC across three user roles.
 
-### [Zyraa](https://zyraa.net) — Project Management Tool
-Team collaboration platform with Kanban boards, time tracking, and Slack integration.
+### [Zyraa](https://zyraa.net) — Project Management SaaS
+Built multi-tenant data isolation using tenant-scoped MongoDB schemas with RBAC enforced at middleware. Designed Slack-native standup automation with per-workspace OAuth token storage. Integrated Stripe per-seat billing ($5/member/month) with webhook-driven quantity sync.
+
+### [PodPlanner](https://app.earworm.co) — Podcast Workflow Platform
+Built AI show notes pipeline using LangChain + LangGraph + OpenAI — reducing content creation time by 80%. Designed Stripe credit system with webhook-driven reconciliation: credits reserved at job start, settled against actual LLM token usage on completion, refunded on failure.
+
+### [SupplyChainForge](https://github.com/codebybilal18/supply-chain-microservices) — Microservices Demo
+Three FastAPI microservices (Inventory, Order, Fulfillment) with GCP Pub/Sub event-driven communication, pessimistic locking for inventory reservation, 74 tests, and full Terraform IaC on GCP.
+
+---
 
 ## 📫 Connect
 - 🌐 [muhammadbilal.dev](https://muhammadbilal.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mbilal18/)
+- 💼 [linkedin.com/in/mbilal18](https://www.linkedin.com/in/mbilal18/)
 - 📧 aslammbilal61@gmail.com
 
 ---
-*Open to remote contract/freelance work. Let's build something great together.*
+
+*Looking for full-time remote backend roles at product companies.*
