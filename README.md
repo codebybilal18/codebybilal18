@@ -1,4 +1,4 @@
-# Muhammad Bilal — Backend Engineer
+# Muhammad Bilal - Backend Engineer
 🌍 **Open to Remote Roles** | 📍 Pakistan (UTC+5) | 🕐 Available for EU & US overlap
 
 I build production backend systems — APIs, event-driven pipelines, distributed services, and the infrastructure that runs them. 2+ years shipping backend for SaaS products from architecture to post-production.
