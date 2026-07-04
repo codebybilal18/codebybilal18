@@ -33,7 +33,6 @@ Three FastAPI microservices (Inventory, Order, Fulfillment) with GCP Pub/Sub eve
 ---
 
 ## 📫 Connect
-- 🌐 [muhammadbilal.dev](https://muhammadbilal.dev)
 - 💼 [linkedin.com/in/mbilal18](https://www.linkedin.com/in/mbilal18/)
 - 📧 aslammbilal61@gmail.com
 
